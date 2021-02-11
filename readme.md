@@ -1,0 +1,2 @@
+- make command
+- tutorial link - bugs in tutorial, fixed in mine
