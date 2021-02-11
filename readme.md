@@ -1,2 +1,4 @@
-- make command
-- tutorial link - bugs in tutorial, fixed in mine
+**setup:** do a `yarn install` in `/frontend` 
+
+**run:** `python backend/manage.py runserver & yarn --cwd frontend start`
+
